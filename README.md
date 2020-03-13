@@ -15,7 +15,7 @@ Resources for Vue.js framework. Help me add more!
 - [Quasar Framework](https://quasar.dev/) - Build high-performance VueJS user interfaces in record time
 - [Element](https://element.eleme.io/) - A Desktop UI Library
 - [Vue material](https://vuematerial.io/) - Build beautiful apps with Material Design and Vue.js
-- [Keen-UI](https://josephuspaye.github.io/Keen-UI/#/ui-alert)
+- [Keen-UI](https://josephuspaye.github.io/Keen-UI/#/ui-alert) - Vue.js library with a simple API, inspired by Material Design
 - [Bootstrap Vue](https://bootstrap-vue.js.org/) - Bootstrap for Vue.js
 - [AT-UI](https://at-ui.github.io/at-ui/#/en) - A Lightweight and Modular Front-End UI Library
 - [Vux](https://vux.li/) - Mobile UI Components based on Vue & WeUI 
@@ -25,5 +25,4 @@ Resources for Vue.js framework. Help me add more!
 
 ## Online Training
 - [Vue School](https://vueschool.io/)
-- [Vue Mastery](https://www.vuemastery.com/)
-    - Offers downloadable cheatsheets
+- [Vue Mastery](https://www.vuemastery.com/) - Offers downloadable cheatsheets
